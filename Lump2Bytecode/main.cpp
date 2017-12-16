@@ -53,6 +53,7 @@ pair<string, uint16_t> lumpPairs[] = { {"empty", LT_EMPTY},
 									   {"vertexShader", LT_VERTEX_SHADER},
 									   {"fragmentShader", LT_FRAGMENT_SHADER},
 									   {"program", LT_PROGRAM},
+									   {"geomtryShader", LT_GEOMETRY_SHADER },
 									   {"", LT_EMPTY} };
 
 FILE* fOut;
